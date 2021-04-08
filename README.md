@@ -24,7 +24,7 @@
   <tr>
     <td><img src="https://github.com/Rayhan1996/Adobe-illustrator-graphics-design/blob/main/cultural%20club%20poster/habibur%20rahman.png" width="400" height="400"></td>
     <td><img src="https://github.com/Rayhan1996/Adobe-illustrator-graphics-design/blob/main/UAP%20CSE%20ASSOCIATION%20POSTER/AL%20KHALED%20RAYHAN.png" width="400" height="400"></td>
-    <td><img src="https://github.com/Rayhan1996/Adobe-illustrator-graphics-design/blob/main/Invitation%20Card%20Design/Invitation%20Card%20%5BFranky%20design%5D.png" width="400" height="400"</td>
+    <td><img src="https://github.com/Rayhan1996/Adobe-illustrator-graphics-design/blob/main/Invitation%20Card%20Design/Invitation%20Card%20%5BFranky%20design%5D.png" width="420" height="400"</td>
   </tr>
      <tr>
     <td>Ivitation Card</td>
