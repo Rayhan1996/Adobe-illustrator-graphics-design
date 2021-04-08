@@ -6,5 +6,5 @@
 
 ## Example:
 
-<img src="https://github.com/Rayhan1996/Adobe-illustrator-graphics-design/blob/main/Invitation%20Card%20Design/Invitation%20Card%20%5BFranky%20design%5D.png" width="320" height="400" />
+<img src="https://github.com/Rayhan1996/Adobe-illustrator-graphics-design/blob/main/Invitation%20Card%20Design/Invitation%20Card%20%5BFranky%20design%5D.png" width="360" height="400" />
 <img src="https://github.com/Rayhan1996/Adobe-illustrator-graphics-design/blob/main/Invitation%20Card%20Design/Invitation%20Card%20%5Bformal%20design%5D.png" width="320" height="400" />
