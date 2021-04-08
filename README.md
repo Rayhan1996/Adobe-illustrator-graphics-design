@@ -18,7 +18,7 @@
   <tr>
     <td>Identity Poster Design v1.0</td>
     <td>Identity Poster Design v2.0</td>
-    <td>Ivitation Card</td>
+    <td>Invitation Card</td>
   </tr>
     
   <tr>
@@ -27,7 +27,7 @@
     <td><img src="https://github.com/Rayhan1996/Adobe-illustrator-graphics-design/blob/main/Invitation%20Card%20Design/Invitation%20Card%20%5BFranky%20design%5D.png" width="420" height="400"</td>
   </tr>
      <tr>
-    <td>Ivitation Card</td>
+    <td>Invitation Card</td>
   </tr>
 
 
