@@ -6,4 +6,4 @@
 
 ## Example:
 
-<img src="https://raw.githubusercontent.com/Rayhan1996/Adobe-illustrator-graphics-design/main/SnH%20graphics%20design%20certificate/AL%20KHALED%20RAYHAN.png" width="720" height="400" />
+<img src="https://raw.githubusercontent.com/Rayhan1996/Adobe-illustrator-graphics-design/main/SnH%20graphics%20design%20certificate/AL%20KHALED%20RAYHAN.png" width="720" height="520" />
